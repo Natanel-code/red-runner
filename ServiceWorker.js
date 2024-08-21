@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-red raner-1.0";
 const contentToCache = [
-    "Build/build0.4.loader.js",
-    "Build/build0.4.framework.js",
-    "Build/build0.4.data",
-    "Build/build0.4.wasm",
+    "Build/build0.5.loader.js",
+    "Build/build0.5.framework.js",
+    "Build/build0.5.data",
+    "Build/build0.5.wasm",
     "TemplateData/style.css"
 
 ];
